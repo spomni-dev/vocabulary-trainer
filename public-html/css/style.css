@@ -1,0 +1,63 @@
+body {
+  font-size: 19px;
+  padding: 0px;
+  margin: 0;
+}
+
+.main-container {
+  max-width: 800px;
+  margin: 0 auto 0 auto;
+  padding: 0px 6px 12px 6px;
+}
+
+.vocabulary {}
+
+.vocabulary .vocabulary__field {
+  padding-top: 8px;
+}
+.vocabulary .vocabulary__field.field {}
+.vocabulary .vocabulary__field.field .field__name {
+  font-size: 16px;
+  font-weight: bold;
+}
+.vocabulary .vocabulary__field.field .valign-middle {
+  height: 46px;
+  border: 1px solid black;
+  padding: 0 4px;
+  text-align: center;
+}
+
+.vocabulary .vocabulary__field.field .field__value {}
+.vocabulary .vocabulary__field.field.field_hidden-value_true .field__value {
+  visibility: hidden;
+}
+.vocabulary .vocabulary__field.field.field_hidden-value_false .field__value {
+  visibility: visible;
+}
+
+
+button {
+  display: block;
+  width: 100%;
+  font-size: inherit;
+  height: 46px;
+  margin: 32px 0 0 0;
+}
+
+.vocabulary .vocabulary__next-field-button {}
+.vocabulary .vocabulary__next-item-button {}
+
+.vocabulary .vocabulary__next-field-button button,
+.vocabulary .vocabulary__next-item-button button {}
+
+.valign-middle {}
+.valign-middle:before {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    content: "";
+}
+.valign-middle * {
+    display: inline-block;
+    vertical-align: middle;
+}

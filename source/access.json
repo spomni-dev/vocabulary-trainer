@@ -1,0 +1,39 @@
+"irregular-verbs-trainer" : {
+
+  "cPanel" : {
+    "http" : "",
+    "https" : "",
+    "username" : "",
+    "password" : ""
+  },
+
+  "ftp" : {
+    "host" : "",
+    "username" : "",
+    "password" : ""
+  },
+
+  "data_base" : {
+    "db_name" : "",
+    "db_password" : "",
+    "db_host" : "",
+    "db_charset" : "utf8"
+  },
+
+  "wp-admin" : {
+    "username" : "",
+    "password" : ""
+  }
+
+}
+
+// localhost
+"" {
+
+  "ftp" : {
+    "host" : "",
+    "username" : "",
+    "password" : ""
+  }
+
+}

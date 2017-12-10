@@ -1,0 +1,15 @@
+Global:
+  ✔ Copy project's files from mobile @done (2017-12-11 00:29:42)
+Features:
+
+Database:
+  ☐ Update DB to v?.?.1.?
+Fixes:
+  ☐ Comment code
+    ☐ Comment index.html
+  ☐ Create unit tests
+Supporting:
+  ☐ Attach GIT
+    ✔ Create local-repo @done (2017-12-11 00:59:23)
+    ☐ Create remote-local-repo
+  ☐ Upload project in web
