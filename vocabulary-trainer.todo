@@ -3,13 +3,12 @@ Global:
 Features:
 
 Database:
-  ☐ Update DB to v?.?.1.?
+  ☐ Update DB to v?.?.0.? - add vocabulary from UNIT VI
+    ✔ Update DB to v?.?.0-0.? - add 13 words from vocabulary of UNIT VI @done (2017-12-11 01:48:41)
 Fixes:
   ☐ Comment code
     ☐ Comment index.html
   ☐ Create unit tests
 Supporting:
-  ☐ Attach GIT
-    ✔ Create local-repo @done (2017-12-11 00:59:23)
-    ☐ Create remote-local-repo
+  ✔ Attach GIT @done (2017-12-11 01:00:05)
   ☐ Upload project in web

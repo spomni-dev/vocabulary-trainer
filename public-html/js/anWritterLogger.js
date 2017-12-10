@@ -188,4 +188,4 @@ AnWritterLogger.prototype.clean = function(){
 if ( typeof( log) != 'undefined'){
   throw new Error('Trying redefine variable named "log"');
 }
-log = new AnWritterLogger(".log-vewport");
+log = new AnWritterLogger(".log-viewport");
