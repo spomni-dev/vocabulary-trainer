@@ -7,7 +7,7 @@ Database:
     ✔ Update DB to v?.?.0-1.? - add words from exercise XI.b of UNIT VI @done (2017-12-11 01:48:41) @done (2017-12-11 04:01:42)
     ✔ Update DB to v?.?.0-0.? - add 13 words from vocabulary of UNIT VI @done (2017-12-11 01:48:41)
 Fixes:
-  ☐ Fix repeat words
+  ✔ Fix repeat words @done (2017-12-11 04:22:57)
   ☐ Comment code
     ☐ Comment index.html
   ☐ Create unit tests
