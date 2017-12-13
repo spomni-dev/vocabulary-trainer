@@ -14,12 +14,12 @@ Database:
   ☐ Update DB - add vocabulary from UNIT I
 Fixes:
   ✔ Fix repeat words @done (2017-12-11 04:22:57)
-  ☐ Comment code
+  ✔ Comment code @done (2017-12-13 04:13:27)
     ✔ Comment index.html @done (2017-12-13 03:38:59)
     ✔ style.css @done (2017-12-13 03:39:01)
     ✔ lototron.js @done (2017-12-13 03:39:01)
-    ☐ script.js
-    ☐ vocabulary-trainer.js
+    ✔ script.js @done (2017-12-13 03:41:25)
+    ✔ vocabulary-trainer.js @done (2017-12-13 04:12:53)
   ☐ Create unit tests
 Supporting:
   ✔ Attach GIT @done (2017-12-11 01:00:05)
