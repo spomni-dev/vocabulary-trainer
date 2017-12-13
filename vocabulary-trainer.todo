@@ -1,16 +1,26 @@
 Global:
   ✔ Copy project's files from mobile @done (2017-12-11 00:29:42)
 Features:
-
+  ☐ Create script for validate vocabularyDB
 Database:
   ☐ Update DB to v?.?.0.? - add vocabulary from UNIT VI
     ✔ Update DB to v?.?.0-1.? - add words from exercise XI.b of UNIT VI @done (2017-12-11 01:48:41) @done (2017-12-11 04:01:42)
     ✔ Update DB to v?.?.0-0.? - add 13 words from vocabulary of UNIT VI @done (2017-12-11 01:48:41)
+  ☐ Update DB  - add irregular verbs
+  ☐ Update DB - add vocabulary from UNIT V
+  ☐ Update DB - add vocabulary from UNIT IV
+  ☐ Update DB - add vocabulary from UNIT III
+  ☐ Update DB - add vocabulary from UNIT II
+  ☐ Update DB - add vocabulary from UNIT I
 Fixes:
   ✔ Fix repeat words @done (2017-12-11 04:22:57)
   ☐ Comment code
-    ☐ Comment index.html
+    ✔ Comment index.html @done (2017-12-13 03:38:59)
+    ✔ style.css @done (2017-12-13 03:39:01)
+    ✔ lototron.js @done (2017-12-13 03:39:01)
+    ☐ script.js
+    ☐ vocabulary-trainer.js
   ☐ Create unit tests
 Supporting:
   ✔ Attach GIT @done (2017-12-11 01:00:05)
-  ☐ Upload project in web
+  ✔ Upload project in web @done (2017-12-11 04:37:10)
