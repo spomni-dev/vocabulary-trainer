@@ -5,7 +5,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, max-scale=2">
   <title>Vocabulary trainer</title>
   <link rel="stylesheet" href="./css/style.css">
-  <script type="text/javascript" src="./js/anWritterLogger.js"></script>
+
+  <!-- Include mocha and chai -->
+    <link rel="stylesheet" href="./css/mocha.css" />
+    <script type="text/javascript" src="./js/chai.js"></script>
+    <script type="text/javascript" src="./js/mocha.js"></script>
+    <script>mocha.setup('bdd')
+      /*
+        function assert(expr, msg) {
+          if (!expr) throw new Error(msg || 'failed');
+        }
+      */
+      var assert = chai.assert;
+      var runner = null;
+
+      var isInteger = function(number){
+        return ( (number % 1) === 0 );
+      }
+
+      document.addEventListener('DOMContentLoaded', function(event){
+        var runner = mocha.run();
+      });
+    </script>
+
+  <!-- <script type="text/javascript" src="./js/anWritterLogger.js"></script> -->
   <script type="text/javascript" src="./js/bem_v0.1p_m.js"></script>
   <script type="text/javascript" src="./js/vocabulary-db.js"></script>
   <script type="text/javascript" src="./js/lototron.js"></script>
@@ -44,7 +67,7 @@
       <button>Next item</button>
     </div>
     <hr>
-    <div class="log-viewport"></div>
+    <div id="mocha"></div>
   </div>
 </body>
 </html>
