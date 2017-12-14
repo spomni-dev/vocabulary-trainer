@@ -13,6 +13,7 @@ Database:
   ☐ Update DB - add vocabulary from UNIT II
   ☐ Update DB - add vocabulary from UNIT I
 Fixes:
+  ☐ Rename Lototron to Lottotron
   ✔ Fix repeat words @done (2017-12-11 04:22:57)
   ✔ Comment code @done (2017-12-13 04:13:27)
     ✔ Comment index.html @done (2017-12-13 03:38:59)
@@ -21,6 +22,7 @@ Fixes:
     ✔ script.js @done (2017-12-13 03:41:25)
     ✔ vocabulary-trainer.js @done (2017-12-13 04:12:53)
   ☐ Create unit tests
+    ☐ test Lototron
 Supporting:
   ✔ Attach GIT @done (2017-12-11 01:00:05)
   ✔ Upload project in web @done (2017-12-11 04:37:10)

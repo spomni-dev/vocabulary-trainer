@@ -8,25 +8,6 @@
 
   <!-- Include mocha and chai -->
     <link rel="stylesheet" href="./css/mocha.css" />
-    <script type="text/javascript" src="./js/chai.js"></script>
-    <script type="text/javascript" src="./js/mocha.js"></script>
-    <script>mocha.setup('bdd')
-      /*
-        function assert(expr, msg) {
-          if (!expr) throw new Error(msg || 'failed');
-        }
-      */
-      var assert = chai.assert;
-      var runner = null;
-
-      var isInteger = function(number){
-        return ( (number % 1) === 0 );
-      }
-
-      document.addEventListener('DOMContentLoaded', function(event){
-        var runner = mocha.run();
-      });
-    </script>
 
   <!-- <script type="text/javascript" src="./js/anWritterLogger.js"></script> -->
   <script type="text/javascript" src="./js/bem_v0.1p_m.js"></script>
@@ -34,6 +15,27 @@
   <script type="text/javascript" src="./js/lototron.js"></script>
   <script type="text/javascript" src="./js/vocabulary-trainer.js"></script>
   <script type="text/javascript" src="./js/script.js"></script>
+
+  <script type="text/javascript" src="./js/chai.js"></script>
+  <script type="text/javascript" src="./js/mocha.js"></script>
+  <script>mocha.setup('bdd')
+    /*
+      function assert(expr, msg) {
+        if (!expr) throw new Error(msg || 'failed');
+      }
+    */
+    var assert = chai.assert;
+    var runner = null;
+
+    var isInteger = function(number){
+      return ( (number % 1) === 0 );
+    }
+
+    document.addEventListener('DOMContentLoaded', function(event){
+      var runner = mocha.run();
+    });
+  </script>
+  <script type="text/javascript" src="./tests/lototron-spec.js"></script>
 </head>
 <body>
   <!-- BEM structure
