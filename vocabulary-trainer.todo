@@ -1,7 +1,9 @@
 Global:
   ✔ Copy project's files from mobile @done (2017-12-11 00:29:42)
 Features:
-  ☐ Create script for validate vocabularyDB
+  ☐ Create script for include mocha tests
+  VocabularyTrainer:
+    ☐ Attach VocabularyTrainer to the html-node but to the document
 Database:
   ☐ Update DB to v?.?.0.? - add vocabulary from UNIT VI
     ✔ Update DB to v?.?.0-1.? - add words from exercise XI.b of UNIT VI @done (2017-12-11 01:48:41) @done (2017-12-11 04:01:42)
@@ -22,7 +24,9 @@ Fixes:
     ✔ script.js @done (2017-12-13 03:41:25)
     ✔ vocabulary-trainer.js @done (2017-12-13 04:12:53)
   ☐ Create unit tests
-    ☐ test Lototron
+    ✔ test Lototron @done (2017-12-16 19:38:56)
+    ✔ test VocabularyTrainer @done (2017-12-17 06:57:50)
+    ☐ test vocabularyDB
 Supporting:
   ✔ Attach GIT @done (2017-12-11 01:00:05)
   ✔ Upload project in web @done (2017-12-11 04:37:10)
