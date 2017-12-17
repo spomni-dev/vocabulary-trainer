@@ -2,6 +2,8 @@ Global:
   ✔ Copy project's files from mobile @done (2017-12-11 00:29:42)
 Features:
   ☐ Create script for include mocha tests
+  VocabularyTrainer:
+    ☐ Attach VocabularyTrainer to the html-node but to the document
 Database:
   ☐ Update DB to v?.?.0.? - add vocabulary from UNIT VI
     ✔ Update DB to v?.?.0-1.? - add words from exercise XI.b of UNIT VI @done (2017-12-11 01:48:41) @done (2017-12-11 04:01:42)
