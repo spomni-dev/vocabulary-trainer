@@ -1,7 +1,7 @@
 Global:
   ✔ Copy project's files from mobile @done (2017-12-11 00:29:42)
 Features:
-  ☐ Create script for include mocha tests
+  ✔ Create script for include mocha tests @done (2017-12-17 10:25:26)
     ✔ create script @done (2017-12-17 09:54:53)
     ✔ fix lototron-spec.js @done (2017-12-17 10:19:36)
     ✔ fix mocha.css @done (2017-12-17 10:19:57)
