@@ -193,4 +193,7 @@ describe("Lototron", function(){
     });
   });
 
+  function isInteger( number ){
+    return ( (number % 1) === 0 );
+  }
 });

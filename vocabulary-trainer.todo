@@ -3,7 +3,7 @@ Global:
 Features:
   ☐ Create script for include mocha tests
     ✔ create script @done (2017-12-17 09:54:53)
-    ☐ fix lototron-spec.js
+    ✔ fix lototron-spec.js @done (2017-12-17 10:19:36)
     ☐ fix mocha.css
   VocabularyTrainer:
     ☐ Attach VocabularyTrainer to the html-node but to the document
