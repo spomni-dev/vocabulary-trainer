@@ -2,6 +2,9 @@ Global:
   ✔ Copy project's files from mobile @done (2017-12-11 00:29:42)
 Features:
   ☐ Create script for include mocha tests
+    ✔ create script @done (2017-12-17 09:54:53)
+    ☐ fix lototron-spec.js
+    ☐ fix mocha.css
   VocabularyTrainer:
     ☐ Attach VocabularyTrainer to the html-node but to the document
 Database:
