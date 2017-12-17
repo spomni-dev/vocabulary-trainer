@@ -26,7 +26,7 @@ Fixes:
   ☐ Create unit tests
     ✔ test Lototron @done (2017-12-16 19:38:56)
     ✔ test VocabularyTrainer @done (2017-12-17 06:57:50)
-    ☐ test vocabularyDB
+    ✔ test vocabularyDB @done (2017-12-17 08:19:10)
 Supporting:
   ✔ Attach GIT @done (2017-12-11 01:00:05)
   ✔ Upload project in web @done (2017-12-11 04:37:10)
