@@ -4,7 +4,7 @@ Features:
   ☐ Create script for include mocha tests
     ✔ create script @done (2017-12-17 09:54:53)
     ✔ fix lototron-spec.js @done (2017-12-17 10:19:36)
-    ☐ fix mocha.css
+    ✔ fix mocha.css @done (2017-12-17 10:19:57)
   VocabularyTrainer:
     ☐ Attach VocabularyTrainer to the html-node but to the document
 Database:
