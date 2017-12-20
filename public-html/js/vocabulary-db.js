@@ -36,7 +36,37 @@ var vocabularyDB = [
       ["to retire", "[tuː rɪˈtaɪə]", "выходить на пенсию"],
       ["expensive", "[ɪksˈpɛnsɪv]", "дорогостоящий"],
       ["rich", "rɪʧ", "богатый"],
-      ["to smuggle", "[tuː ˈsmʌgl]", "заниматься контрабандой"]
+      ["to smuggle", "[tuː ˈsmʌgl]", "заниматься контрабандой"],
+
+    //-- #02-0-0-1 - words from vocabulary of UNIT VI
+      ["to show smb. around (the city)", "tuː ʃəʊ ˈsʌmbədi əˈraʊnd (ðə ˈsɪti)", "показывать кому-л. (город)"],
+      ["to travel by (air, sea)", "tuː ˈtrævl baɪ (eə, siː)", "ездить (на самолете, по морю)"],
+      ["rich", "rɪʧ", "богатый"],
+      ["expensive", "ɪksˈpɛnsɪv", "дорогой"],
+      ["wonderful", "ˈwʌndəfʊl", "перкрасный"],
+      ["railway", "ˈreɪlweɪ", "железная дорога"],
+      ["railway station", "ˈreɪlweɪ ˈsteɪʃən", "железнодорожный вокзал"],
+      ["traffic", "ˈtræfɪk", "уличное движение"],
+      ["heavy traffic", "ˈhɛvi ˈtræfɪk", "сильное движение"],
+      ["traffic lights", "ˈtræfɪk laɪts", "светофор"],
+      ["traffic rules", "ˈtræfɪk ruːlz", "правила уличного движения"],
+      ["passenger", "ˈpæsɪnʤə", "пассажир"],
+      ["crossing", "ˈkrɒsɪŋ", "переход"],
+      ["to cross the street", "tuː krɒs ðə striːt", "переходить улицу"],
+      ["to enjoy something", "tuː ɪnˈʤɔɪ ˈsʌmθɪŋ", "нслаждаться чем-либо"],
+      ["to swim", "tuː swɪm", "плавать"],
+      ["to go boating", "tuː gəʊ ˈbəʊtɪŋ", "кататься на лодке"],
+      ["to lie in the sun", "tuː laɪ ɪn ðə sʌn", "загорать"],
+      ["beach", "biːʧ", "пляж"],
+      ["sunshine", "ˈsʌnʃaɪn", "солнце, солнечный свет"],
+      ["to take pictures", "tuː teɪk ˈpɪkʧəz", "фотографировать"],
+      ["view (of London)", "vjuː (ɒv ˈlʌndən)", "вид (Лондона)"],
+      ["the customs office", "ðə ˈkʌstəmz ˈɒfɪs", "таможня"],
+      ["sign", "saɪn", "знак, вывеска"],
+      ["seashore", "ˈsiːʃɔː", "морской берег"],
+      ["to ask the way to", "tuː ɑːsk ðə weɪ tuː", "спрашивать как пройти куда-л."],
+      ["to be overcrowded", "tuː biː ˌəʊvəˈkraʊdɪd", "быть переполненным"],
+      ["to tell somebody", "tuː tɛl ˈsʌmbədi", "сказать кому-л."]
 ];
 
 // console.log(vocabularyDB);

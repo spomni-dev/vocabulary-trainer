@@ -7,8 +7,9 @@
     ☐ #01-0-0 Attach VocabularyTrainer to the html-node but to the document
 02 Database:
   ☐ #02-0 Update DB to v?.?.1.? - add vocabulary from UNIT VI (0-2)
-    ☐ #02-0-0 Update DB to v?.?.0-2.? - add words from vocabulary of UNIT VI
-      ✔ #02-0-0-0 Update DB to v?.?.0-0.? - add 13 words from vocabulary of UNIT VI @done (2017-12-11 01:48:41)
+    ✔ #02-0-0 Update DB to v?.?.0-0.? - add words from vocabulary of UNIT VI @done (2017-12-20 09:16:26)
+      ✔ #02-0-0-0 Update DB to v?.?.0-0-0.? - add 13 words from vocabulary of UNIT VI @done (2017-12-11 01:48:41)
+      ✔ #02-0-0-1 Update DB to 0-0-1 - add words from vocabulary of UNIT VI @done (2017-12-20 09:16:24)
     ☐ #02-0-1 Update DB to v?.?.0-.? - add words from text I of UNIT VI
     ☐ #02-0-2 Update DB to v?.?.0-.? - add words from text II of UNIT VI
     ☐ #02-0-3 Update DB to v?.?.0-.? - add words from dialogues of UNIT VI
