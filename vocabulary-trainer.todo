@@ -5,9 +5,33 @@ Features:
   VocabularyTrainer:
     ☐ Attach VocabularyTrainer to the html-node but to the document
 Database:
-  ☐ Update DB to v?.?.0.? - add vocabulary from UNIT VI
-    ✔ Update DB to v?.?.0-1.? - add words from exercise XI.b of UNIT VI @done (2017-12-11 01:48:41) @done (2017-12-11 04:01:42)
-    ✔ Update DB to v?.?.0-0.? - add 13 words from vocabulary of UNIT VI @done (2017-12-11 01:48:41)
+  ☐ Update DB to v?.?.1.? - add vocabulary from UNIT VI (0-2)
+    ☐ Update DB to v?.?.0-2.? - add words from vocabulary of UNIT VI
+      ✔ Update DB to v?.?.0-0.? - add 13 words from vocabulary of UNIT VI @done (2017-12-11 01:48:41)
+    ☐ Update DB to v?.?.0-.? - add words from text I of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from text II of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from dialogues of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise I of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise II of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise III of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise VI of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise V of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise VI of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise VII of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise VIII of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise IX of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise X of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise XI of UNIT VI
+      ✔ Update DB to v?.?.0-1.? - add words from exercise XI.b of UNIT VI @done (2017-12-11 01:48:41) @done (2017-12-11 04:01:42)
+    ☐ Update DB to v?.?.0-.? - add words from exercise XII of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise XIII of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise XIV of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise XV of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise XVI of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise XVII of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise XIIX of UNIT VI
+    ☐ Update DB to v?.?.0-.? - add words from exercise XIX of UNIT VI
+
   ☐ Update DB  - add irregular verbs
   ☐ Update DB - add vocabulary from UNIT V
   ☐ Update DB - add vocabulary from UNIT IV
