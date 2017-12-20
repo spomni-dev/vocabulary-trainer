@@ -1,48 +1,49 @@
-Global:
-  ✔ Copy project's files from mobile @done (2017-12-11 00:29:42)
-Features:
-  ✔ Create script for include mocha tests @done (2017-12-17 10:23:14)
+00 Global:
+  ✔ #00-0 Copy project's files from mobile @done (2017-12-11 00:29:42)
+  ✔ #00-1 Add numbering system for tasks @done (2017-12-20 08:12:58)
+01 Features:
+  ✔ #01-0 Create script for include mocha tests @done (2017-12-17 10:23:14)
   VocabularyTrainer:
-    ☐ Attach VocabularyTrainer to the html-node but to the document
-Database:
-  ☐ Update DB to v?.?.1.? - add vocabulary from UNIT VI (0-2)
-    ☐ Update DB to v?.?.0-2.? - add words from vocabulary of UNIT VI
-      ✔ Update DB to v?.?.0-0.? - add 13 words from vocabulary of UNIT VI @done (2017-12-11 01:48:41)
-    ☐ Update DB to v?.?.0-.? - add words from text I of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from text II of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from dialogues of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise I of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise II of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise III of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise VI of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise V of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise VI of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise VII of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise VIII of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise IX of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise X of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise XI of UNIT VI
-      ✔ Update DB to v?.?.0-1.? - add words from exercise XI.b of UNIT VI @done (2017-12-11 01:48:41) @done (2017-12-11 04:01:42)
-    ☐ Update DB to v?.?.0-.? - add words from exercise XII of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise XIII of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise XIV of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise XV of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise XVI of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise XVII of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise XIIX of UNIT VI
-    ☐ Update DB to v?.?.0-.? - add words from exercise XIX of UNIT VI
+    ☐ #01-0-0 Attach VocabularyTrainer to the html-node but to the document
+02 Database:
+  ☐ #02-0 Update DB to v?.?.1.? - add vocabulary from UNIT VI (0-2)
+    ☐ #02-0-0 Update DB to v?.?.0-2.? - add words from vocabulary of UNIT VI
+      ✔ #02-0-0-0 Update DB to v?.?.0-0.? - add 13 words from vocabulary of UNIT VI @done (2017-12-11 01:48:41)
+    ☐ #02-0-1 Update DB to v?.?.0-.? - add words from text I of UNIT VI
+    ☐ #02-0-2 Update DB to v?.?.0-.? - add words from text II of UNIT VI
+    ☐ #02-0-3 Update DB to v?.?.0-.? - add words from dialogues of UNIT VI
+    ☐ #02-0-4 Update DB to v?.?.0-.? - add words from exercise I of UNIT VI
+    ☐ #02-0-5 Update DB to v?.?.0-.? - add words from exercise II of UNIT VI
+    ☐ #02-0-6 Update DB to v?.?.0-.? - add words from exercise III of UNIT VI
+    ☐ #02-0-7 Update DB to v?.?.0-.? - add words from exercise VI of UNIT VI
+    ☐ #02-0-8 Update DB to v?.?.0-.? - add words from exercise V of UNIT VI
+    ☐ #02-0-9 Update DB to v?.?.0-.? - add words from exercise VI of UNIT VI
+    ☐ #02-0-10 Update DB to v?.?.0-.? - add words from exercise VII of UNIT VI
+    ☐ #02-0-11 Update DB to v?.?.0-.? - add words from exercise VIII of UNIT VI
+    ☐ #02-0-12 Update DB to v?.?.0-.? - add words from exercise IX of UNIT VI
+    ☐ #02-0-13 Update DB to v?.?.0-.? - add words from exercise X of UNIT VI
+    ☐ #02-0-14 Update DB to v?.?.0-.? - add words from exercise XI of UNIT VI
+      ✔ #02-0-14-0 Update DB to v?.?.0-1.? - add words from exercise XI.b of UNIT VI @done (2017-12-11 01:48:41) @done (2017-12-11 04:01:42)
+    ☐ #02-0-15 Update DB to v?.?.0-.? - add words from exercise XII of UNIT VI
+    ☐ #02-0-16 Update DB to v?.?.0-.? - add words from exercise XIII of UNIT VI
+    ☐ #02-0-17 Update DB to v?.?.0-.? - add words from exercise XIV of UNIT VI
+    ☐ #02-0-18 Update DB to v?.?.0-.? - add words from exercise XV of UNIT VI
+    ☐ #02-0-19 Update DB to v?.?.0-.? - add words from exercise XVI of UNIT VI
+    ☐ #02-0-20 Update DB to v?.?.0-.? - add words from exercise XVII of UNIT VI
+    ☐ #02-0-21 Update DB to v?.?.0-.? - add words from exercise XIIX of UNIT VI
+    ☐ #02-0-22 Update DB to v?.?.0-.? - add words from exercise XIX of UNIT VI
 
-  ☐ Update DB  - add irregular verbs
-  ☐ Update DB - add vocabulary from UNIT V
-  ☐ Update DB - add vocabulary from UNIT IV
-  ☐ Update DB - add vocabulary from UNIT III
-  ☐ Update DB - add vocabulary from UNIT II
-  ☐ Update DB - add vocabulary from UNIT I
-Fixes:
-  ☐ Rename Lototron to Lottotron
-  ✔ Fix repeat words @done (2017-12-11 04:22:57)
-  ✔ Comment code @done (2017-12-13 04:13:27)
-  ✔ Create unit tests @done (2017-12-17 08:31:27)
-Supporting:
-  ✔ Attach GIT @done (2017-12-11 01:00:05)
-  ✔ Upload project in web @done (2017-12-11 04:37:10)
+  ☐ #02-1 Update DB  - add irregular verbs
+  ☐ #02-2 Update DB - add vocabulary from UNIT V
+  ☐ #02-3 Update DB - add vocabulary from UNIT IV
+  ☐ #02-4 Update DB - add vocabulary from UNIT III
+  ☐ #02-5 Update DB - add vocabulary from UNIT II
+  ☐ #02-6 Update DB - add vocabulary from UNIT I
+03 Fixes:
+  ☐ #03-3 Rename Lototron to Lottotron
+  ✔ #03-0 Fix repeat words @done (2017-12-11 04:22:57)
+  ✔ #03-1 Comment code @done (2017-12-13 04:13:27)
+  ✔ #03-2 Create unit tests @done (2017-12-17 08:31:27)
+04 Supporting:
+  ✔ #04-0 Attach GIT @done (2017-12-11 01:00:05)
+  ✔ $04-1 Upload project in web @done (2017-12-11 04:37:10)
