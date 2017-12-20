@@ -3,11 +3,11 @@
   ✔ #00-1 Add numbering system for tasks @done (2017-12-20 08:12:58)
 01 Features:
   ✔ #01-0 Create script for include mocha tests @done (2017-12-17 10:23:14)
-  VocabularyTrainer:
-    ☐ #01-0-0 Attach VocabularyTrainer to the html-node but to the document
+  ☐ #01-1 Attach VocabularyTrainer to the html-node but to the document
+  ☐ #01-2 Add option to select the vocabulary set for training
 02 Database:
   ☐ #02-0 Update DB to v?.?.1.? - add vocabulary from UNIT VI (0-2)
-    ✔ #02-0-0 Update DB to v?.?.0-0.? - add words from vocabulary of UNIT VI @done (2017-12-20 09:16:26)
+    ✔ #02-0-0 Update DB - add words from vocabulary of UNIT VI @done (2017-12-20 09:16:26)
       ✔ #02-0-0-0 Update DB to v?.?.0-0-0.? - add 13 words from vocabulary of UNIT VI @done (2017-12-11 01:48:41)
       ✔ #02-0-0-1 Update DB to 0-0-1 - add words from vocabulary of UNIT VI @done (2017-12-20 09:16:24)
     ☐ #02-0-1 Update DB to v?.?.0-.? - add words from text I of UNIT VI
