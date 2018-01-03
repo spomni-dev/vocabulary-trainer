@@ -66,7 +66,25 @@ var vocabularyDB = [
       ["seashore", "ˈsiːʃɔː", "морской берег"],
       ["to ask the way to", "tuː ɑːsk ðə weɪ tuː", "спрашивать как пройти куда-л."],
       ["to be overcrowded", "tuː biː ˌəʊvəˈkraʊdɪd", "быть переполненным"],
-      ["to tell somebody", "tuː tɛl ˈsʌmbədi", "сказать кому-л."]
+      ["to tell somebody", "tuː tɛl ˈsʌmbədi", "сказать кому-л."],
+
+    //-- #02-0-1 add words from text I of UNIT VI
+      ["the capital of country", "ðə ˈkæpɪtl ɒv ˈkʌntri", "столица страны"],
+      ["be going to", "biː ˈgəʊɪŋ tuː", "собираться"],
+      ["I'm going to be your guide.", "aɪm ˈgəʊɪŋ tuː biː jɔː gaɪd.", "Я буду вашим гидом."],
+      ["most of somethings", "məʊst ɒv ˈsʌmθɪŋz", "большинство чего-либо"],
+      ["double-decker (a bus)", "ˈdʌblˈdɛkə (ə bʌs)", "двухэтажный (автобус)"],
+      ["storey", "ˈstɔːri", "этаж"],
+      ["one-storey", "wʌn-ˈstɔːri", "одноэтажный"],
+      ["countryside", "ˈkʌntrɪˌsaɪd", "сельская местность"],
+      ["to belong", "tuː bɪˈlɒŋ", "принадлежать"],
+      ["careful", "ˈkeəfʊl", "осторожный"],
+      ["to be careful", "tuː biː ˈkeəfʊl", "быть осторожным"],
+      ["a corner", "ə ˈkɔːnə", "угол"],
+      ["to afford", "tuː əˈfɔːd", "позволять"],
+      ["to can afford", "tuː kæn əˈfɔːd", "мочь себе позволить"],
+      ["a hotel", "ə həʊˈtɛl", "отель, гостиница"],
+      ["What we shall do?", "wɒt wiː ʃæl duː?", "Что мы будем делать?"]
 ];
 
 // console.log(vocabularyDB);
