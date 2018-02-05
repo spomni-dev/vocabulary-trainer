@@ -33,7 +33,7 @@
           return restNumbersArray.splice(numberIndx, 1)[0];
         }
       }
-    
+
     /** @method reload - refresh restNumberArray to inital array.
      * @public
      * @returns {undefined}
@@ -44,14 +44,14 @@
         }
       }
 
-    /** @method getRestNumbers - return numbers that didn't was return from method getNextNumber
+    /** @method getRestNumbers - return numbers that didn't returned from method getNextNumber
      * @returns {array}
      */
       self.getRestNumbers = function(){
         return restNumbersArray;
       }
     //
-    /** @function createNumbersArray - return array filled of the integer numbers from 0 to maxNumber. 
+    /** @function createNumbersArray - return array filled of the integer numbers from 0 to maxNumber.
      * @param {number} maxNumber
      * @returns {array}
      */
@@ -71,5 +71,5 @@
         var rand = min + Math.random() * (max + 1 - min);
         rand = Math.floor(rand);
         return rand;
-      } // randomInteger 
+      } // randomInteger
   }

@@ -42,7 +42,6 @@ var vocabularyDB = [
       ["to show smb. around (the city)", "tuː ʃəʊ ˈsʌmbədi əˈraʊnd (ðə ˈsɪti)", "показывать кому-л. (город)"],
       ["to travel by (air, sea)", "tuː ˈtrævl baɪ (eə, siː)", "ездить (на самолете, по морю)"],
       ["rich", "rɪʧ", "богатый"],
-      ["expensive", "ɪksˈpɛnsɪv", "дорогой"],
       ["wonderful", "ˈwʌndəfʊl", "перкрасный"],
       ["railway", "ˈreɪlweɪ", "железная дорога"],
       ["railway station", "ˈreɪlweɪ ˈsteɪʃən", "железнодорожный вокзал"],
@@ -84,8 +83,46 @@ var vocabularyDB = [
       ["to afford", "tuː əˈfɔːd", "позволять"],
       ["to can afford", "tuː kæn əˈfɔːd", "мочь себе позволить"],
       ["a hotel", "ə həʊˈtɛl", "отель, гостиница"],
-      ["What we shall do?", "wɒt wiː ʃæl duː?", "Что мы будем делать?"]
-];
+      ["What we shall do?", "wɒt wiː ʃæl duː?", "Что мы будем делать?"],
+
+    //-- #02-7 add vocabulary from UNIT VII
+      ["to do the shopping", "tuː duː ðə ˈʃɒpɪŋ", "ходить по магазинам"],
+      ["to go shopping", "tuː gəʊ ˈʃɒpɪŋ", "ходить по магазинам"],
+      ["a shop", "ə ʃɒp", "магазин"],
+      ["a shop assistant", "ə ʃɒp əˈsɪstənt", "продавец"],
+      ["a store", "ə stɔː", "магазин, запас"],
+
+      ["a department store", "ə dɪˈpɑːtmənt stɔː", "универмаг"],
+      ["a supermarket", "ə ˈsjuːpəˌmɑːkɪt", "универсам"],
+      ["to get personal service", "tuː gɛt ˈpɜːsnl ˈsɜːvɪs", "обслуживаться персонально"],
+      ["to buy", "tuː baɪ", "покупать"],
+      ["to sell", "tuː sɛl", "продавать"],
+
+      ["to pay", "tuː peɪ", "платить"],
+      ["a price", "ə praɪs", "цена"],
+      ["at a resonable price", "æt ə ˌriːˈsʌnəbl praɪs", "за разумную цену"],
+      ["pound", "paʊnd", "фунт"],
+      ["a five pound note", "ə faɪv paʊnd nəʊt", "банкнота в пять фунтов"],
+
+      ["to change (money)", "tuː ʧeɪnʤ (ˈmʌni)", "менять (деньги)"],
+      ["the change", "ðə ʧeɪnʤ", "сдача"],
+      ["a tin", "ə tɪn", "банка (железная)"],
+      ["a bottle", "ə ˈbɒtl", "бутылка"],
+      ["juice", "ʤuːs", "сок"],
+
+      ["pineapple juice", "aɪnˌæpl ʤuːs", "ананасовый сок"],
+      ["the baker's", "ðə ˈbeɪkəz", "булочная"],
+      ["the dairy", "ðə ˈdeəri", "молочный магазин"],
+      ["the butchers", "ðə ˈbʊʧəz", "мясной магазин"],
+      ["the grocer's", "ðə ˈgrəʊsəz", "бакалея"],
+
+      ["the greengrocer's", "ðə ˈgriːnˌgrəʊsəz", "овощной магазин"],
+      ["a department", "ə dɪˈpɑːtmənt", "отдел"],
+      ["a shoe department", "ə ʃuː dɪˈpɑːtmənt", "обувной отдел"],
+      ["a counter", "ə ˈkaʊntə", "прилавок"],
+      ["ready-made clothes", "ˈrɛdɪˈmeɪd kləʊðz", "готовая одежда"],
+
+      ["to try somthing on", "tuː traɪ ˈsʌmθɪŋ ɒn", "примерять что-либо"]
 
 // console.log(vocabularyDB);
 
