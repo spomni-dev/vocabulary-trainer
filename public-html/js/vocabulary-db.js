@@ -5,7 +5,7 @@
 var vocabularyDB = [
   //-- v?.?.0 - vocabulary from UNIT VI
     //-- v?.?.0-0 - 13 words from vocabulary
-      ["a guide", "[ə gaɪd]", "гид"],
+          ["a guide", "[ə gaɪd]", "гид"],
       ["a guide book", "[ə gaɪd bʊk]", "путеводитель"],
       ["a tourist", "[ə ˈtʊərɪst]", "турист"],
       ["a foreign tourist", "[ə ˈfɒrɪn ˈtʊərɪst]", "иностранный турист"],
@@ -85,7 +85,7 @@ var vocabularyDB = [
       ["a hotel", "ə həʊˈtɛl", "отель, гостиница"],
       ["What we shall do?", "wɒt wiː ʃæl duː?", "Что мы будем делать?"],
 
-    //-- #02-7 add vocabulary from UNIT VII
+    //-- #02-7-0 add vocabulary from UNIT VII
       ["to do the shopping", "tuː duː ðə ˈʃɒpɪŋ", "ходить по магазинам"],
       ["to go shopping", "tuː gəʊ ˈʃɒpɪŋ", "ходить по магазинам"],
       ["a shop", "ə ʃɒp", "магазин"],
@@ -122,8 +122,20 @@ var vocabularyDB = [
       ["a counter", "ə ˈkaʊntə", "прилавок"],
       ["ready-made clothes", "ˈrɛdɪˈmeɪd kləʊðz", "готовая одежда"],
 
-      ["to try somthing on", "tuː traɪ ˈsʌmθɪŋ ɒn", "примерять что-либо"]
+      ["to try somthing on", "tuː traɪ ˈsʌmθɪŋ ɒn", "примерять что-либо"],
 
+    //-- #02-7-1 add vocabulary from UNIT VII
+      ['to fit', 'tuː fɪt (wɛl)', 'подходить, сидеть (хорошо)'],
+      ['tight', 'taɪt', 'узкий, тесный'],
+      ['loose', 'luːs', 'свободный, широкий'],
+      ['coat', 'kəʊt', 'пальто'],
+      ['raincoat', 'ˈreɪnkəʊt', 'плащ'],
+      ['frock (dress)', 'frɒk (drɛs)', 'платье'],
+      ['gloves', 'glʌvz', 'перчатки'],
+      ['stockings', 'ˈstɒkɪŋz', 'чулки'],
+      ['cheap', 'ʧiːp', 'дешевый']
+
+]
 // console.log(vocabularyDB);
 
 /**
