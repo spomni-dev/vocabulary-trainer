@@ -62,6 +62,7 @@ function VocabularyTrainer( vocabularyDB ){
       //-- getItemNumber
         var itemNumber = _loto.getNextNumber();
         if ( typeof(itemNumber) != "number" ){
+          alert('loop is ended')
           _loto.reload();
           itemNumber = _loto.getNextNumber();
         }
